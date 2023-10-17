@@ -1,0 +1,14 @@
+.footer-container {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: flex-end;
+    // margin-top: auto;
+}
+
+.footer-wrapper {
+    border-radius: 1px;
+    height: 3rem;
+    background-color: rgb(202, 250, 234);
+
+}
